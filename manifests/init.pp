@@ -173,7 +173,7 @@
 #
 # [*pid_file*]
 #   Path of pid file. Used by monitor
-
+#
 # [*data_dir*]
 #   Path of application data directory. Used by puppi
 #
